@@ -1,19 +1,19 @@
-# Projeto Python IA: Inteligência Artificial e Previsões
+# Python AI Project: Artificial Intelligence and Predictions
 
-Este projeto tem como objetivo criar um modelo de inteligência artificial para prever o score de crédito dos clientes de um banco. Utilizando técnicas de aprendizado de máquina, vamos analisar as informações dos clientes e classificá-los em categorias de score de crédito: Ruim, Ok ou Bom.
+This project aims to create an artificial intelligence model to predict the credit score of bank customers. Using machine learning techniques, we will analyze customer information and classify them into credit score categories: Poor, Fair, or Good.
 
-## Case: Score de Crédito dos Clientes
-Imagine que você foi contratado por um banco para desenvolver um sistema capaz de avaliar o risco de crédito de seus clientes de forma automática. Com base em um conjunto de dados históricos sobre os clientes e seus respectivos comportamentos financeiros, o objetivo é construir um modelo que possa prever o score de crédito de novos clientes.
+## Case: Customer Credit Score
+Imagine you have been hired by a bank to develop a system capable of automatically assessing the credit risk of its customers. Based on a set of historical data about customers and their financial behaviors, the goal is to build a model that can predict the credit score of new customers.
 
-## Ferramentas Utilizadas
+## Tools Used
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python" />
     <img src="https://skillicons.dev/icons?i=sklearn" />
 </a>
 
-- [`Python`](https://www.python.org/) - Linguagem de programação principal para desenvolvimento do projeto.  
-- [`scikit-learn`](https://scikit-learn.org/) - Biblioteca de aprendizado de máquina em Python que fornece ferramentas simples e eficientes para análise preditiva de dados.
-- [`pandas`](https://pandas.pydata.org/) - Biblioteca Python para manipulação e análise de dados.
+- [`Python`](https://www.python.org/) - Main programming language for project development.
+- [`scikit-learn`](https://scikit-learn.org/) - Python machine learning library that provides simple and efficient tools for predictive data analysis.
+- [`pandas`](https://pandas.pydata.org/) - Python library for data manipulation and analysis.
 
-## Créditos
-Este projeto foi desenvolvido como parte da "Jornada Python" da Hashtag Treinamentos. Agradecemos a todos os participantes e colaboradores envolvidos no desenvolvimento deste projeto.
+## Credits
+This project was developed as part of the "Python Journey" by Hashtag Trainings. We thank all participants and contributors involved in the development of this project.
